@@ -73,7 +73,7 @@ export function PackageStep({ selectedPackage, onSelect }: PackageStepProps) {
                   >
                     {pkg.price}{" "}
                     <span className="text-xs font-semibold text-slate-300">
-                      ريال
+                      ريال سعودي
                     </span>
                   </div>
                 </div>
